@@ -1,0 +1,10 @@
+streamlit==1.49.1
+scikit-learn==1.7.2
+pandas==2.3.2
+numpy==2.3.3
+joblib==1.5.2
+matplotlib==3.10.6
+duckduckgo-search==8.1.1
+trafilatura==2.0.0
+sentence-transformers==5.1.0
+google-generativeai==0.8.3

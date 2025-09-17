@@ -1,0 +1,27 @@
+# Bỏ virtual environment
+venv/
+.env
+
+# Bỏ file model lớn, dữ liệu
+*.joblib
+*.pkl
+*.h5
+*.db
+*.sqlite3
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.so
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Log & tạm
+*.log
+*.tmp
+.DS_Store
+
+# Streamlit
+.streamlit/
