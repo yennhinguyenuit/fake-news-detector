@@ -25,3 +25,6 @@ __pycache__/
 
 # Streamlit
 .streamlit/
+# Keep models in repo
+!models/
+!models/*.joblib
